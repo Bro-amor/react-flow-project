@@ -1,0 +1,43 @@
+{
+    "path":
+    {
+        "group":"Group",
+        "category":"aaaa"
+    },
+    "componentName":"aa",
+    "componentType":"customInputNode",
+    "myData":
+    [
+        {
+            "id":"attr1",
+            "name":"input_num1",
+            "type":"int",
+            "value":"1"
+        },
+        {
+            "id":"attr2",
+            "name":"input_num2",
+            "type":"int",
+            "value":"2"
+        }
+    ],
+    "componentData":
+    {
+        
+    },
+    "childData":
+    [
+        {
+            "id": 1,
+            "name": "bb"
+        },
+        {
+            "id": 2,
+            "name": "cc"
+        },
+        {
+            "id": 3,
+            "name": "dd"
+        }
+    ]
+}

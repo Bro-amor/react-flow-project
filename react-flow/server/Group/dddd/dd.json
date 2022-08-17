@@ -1,0 +1,68 @@
+{
+    "path":
+    {
+        "group":"Group",
+        "category":"dddd"
+    },
+    "componentName":"dd",
+    "componentType":"customDefaultNode",
+    "myData":
+    [
+        {
+            "id":"attr1",
+            "name":"default",
+            "type":"default",
+            "value":"default"
+        }
+    ],
+    "componentData":
+    {
+        "nodes":
+        [
+            {
+                "width":150,
+                "height":40,
+                "id":"dndnode_1",
+                "type":"customDefaultNode",
+                "position":
+                {
+                    "x":243.92184448242188,
+                    "y":361.25
+                },
+                "data":
+                {
+                    "label":"dd"
+                },
+                "selected":false,
+                "positionAbsolute":
+                {
+                    "x":243.92184448242188,
+                    "y":361.25
+                },
+                "dragging":false
+            }
+        ],
+        "edges":[],
+        "viewport":
+        {
+            "x":-145.7291259765625,
+            "y":-291.5,
+            "zoom":2
+        }
+    },
+    "childData":
+    [
+        {
+            "id": 1,
+            "name": "aa"
+        },
+        {
+            "id": 2,
+            "name": "bb"
+        },
+        {
+            "id": 3,
+            "name": "cc"
+        }
+    ]
+}

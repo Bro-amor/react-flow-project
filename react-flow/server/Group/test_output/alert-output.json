@@ -1,0 +1,23 @@
+{
+    "path":
+    {
+        "group":"Group",
+        "category":"test_output"
+    },
+    "componentName":"alert-output",
+    "componentType":"customOutputNode",
+    "myData":
+    [
+        {
+            "id":"attr1",
+            "name":"alert",
+            "type":"int",
+            "value":"alert()"
+        }
+    ],
+    "componentData":
+    {
+        
+    },
+    "childData": []
+}

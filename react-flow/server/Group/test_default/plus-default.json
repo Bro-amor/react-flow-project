@@ -1,0 +1,23 @@
+{
+    "path":
+    {
+        "group":"Group",
+        "category":"test_default"
+    },
+    "componentName":"plus-default",
+    "componentType":"customDefaultNode",
+    "myData":
+    [
+        {
+            "id":"attr1",
+            "name":"plus",
+            "type":"string",
+            "value":"+"
+        }
+    ],
+    "componentData":
+    {
+        
+    },
+    "childData": []
+}
